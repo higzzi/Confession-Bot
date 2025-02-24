@@ -20,7 +20,7 @@ This is a Discord bot that allows users to submit anonymous or non-anonymous con
 
     ```bash
     git clone https://github.com/higzzi/Confession-Bot.git
-    cd confession-bot
+    cd Confession-Bot
     ```
 
 2. Install the dependencies:
