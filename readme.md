@@ -19,7 +19,7 @@ This is a Discord bot that allows users to submit anonymous or non-anonymous con
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/higzzi/confession-bot.git
+    git clone https://github.com/higzzi/Confession-Bot.git
     cd confession-bot
     ```
 
